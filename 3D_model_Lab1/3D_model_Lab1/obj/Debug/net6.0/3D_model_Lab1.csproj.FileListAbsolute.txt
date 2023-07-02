@@ -1,0 +1,15 @@
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\bin\Debug\net6.0\3D_model_Lab1.exe
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\bin\Debug\net6.0\3D_model_Lab1.deps.json
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\bin\Debug\net6.0\3D_model_Lab1.runtimeconfig.json
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\bin\Debug\net6.0\3D_model_Lab1.dll
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\bin\Debug\net6.0\3D_model_Lab1.pdb
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\obj\Debug\net6.0\3D_model_Lab1.csproj.AssemblyReference.cache
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\obj\Debug\net6.0\3D_model_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\obj\Debug\net6.0\3D_model_Lab1.AssemblyInfoInputs.cache
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\obj\Debug\net6.0\3D_model_Lab1.AssemblyInfo.cs
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\obj\Debug\net6.0\3D_model_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\obj\Debug\net6.0\3D_model_Lab1.dll
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\obj\Debug\net6.0\refint\3D_model_Lab1.dll
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\obj\Debug\net6.0\3D_model_Lab1.pdb
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\obj\Debug\net6.0\3D_model_Lab1.genruntimeconfig.cache
+C:\Users\haselius\Documents\Code_University\C#\3D_model_Lab1\3D_model_Lab1\obj\Debug\net6.0\ref\3D_model_Lab1.dll
